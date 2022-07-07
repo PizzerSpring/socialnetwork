@@ -1,0 +1,15 @@
+.navigation {
+}
+.navlist {
+    list-style-type: none;
+    display: flex;
+}
+
+.item   {
+    color: black;
+    text-decoration: none;
+    margin-right: 120px;
+}
+.activeLink {
+    opacity: 0.6;
+}

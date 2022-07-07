@@ -1,0 +1,24 @@
+.sectioncontainer {
+    display: flex;
+}
+
+.dialogsusers {
+    background: #FFDEAD;
+    width: 350px;
+    height: 400px;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dialogsmessages {
+    width: 700px;
+    background: #FFDEAD;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+

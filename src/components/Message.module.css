@@ -1,0 +1,7 @@
+.message {
+    display: flex;
+    flex-direction: column;
+    text-indent: 40px;
+    line-height: 40px;
+    border: 1px dotted black;
+}
